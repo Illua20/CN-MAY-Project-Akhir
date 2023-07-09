@@ -61,3 +61,10 @@ body{
     padding: 80px 0px;
     border-top: 1px solid #dedede;
 }
+
+.image-artikel{
+    background: #7eb4e2;
+    border-radius: .8em;
+    box-shadow: 0 0 0 .4em #32557f;
+    outline: 8px ridge rgba(80, 50, 220, .6);border-radius: 2rem;;
+}
